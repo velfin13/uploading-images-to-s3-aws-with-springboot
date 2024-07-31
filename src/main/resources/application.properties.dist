@@ -1,0 +1,7 @@
+spring.application.name=demo
+
+aws.s3.accessKeyId=
+aws.s3.secretAccessKey=
+aws.s3.region=
+aws.s3.bucket-name=
+aws.s3.base-url=
